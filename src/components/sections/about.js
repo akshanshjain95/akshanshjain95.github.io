@@ -16,8 +16,8 @@ const StyledAboutSection = styled.section`
     @media (max-width: 768px) {
       display: block;
     }
-  }
-`;
+  }`;
+
 const StyledText = styled.div`
   ul.skills-list {
     display: grid;
