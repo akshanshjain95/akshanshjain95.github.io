@@ -144,15 +144,15 @@ const About = () => {
             <p>Hi! I'm Akshansh, a software engineer based in Noida, UP.</p>
 
             <p>
-              I enjoy creating things that live on the internet, whether that be websites,
-              applications, or anything in between. My goal is to always build products that provide
-              pixel-perfect, performant experiences.
+              I possess 3+ years of experience, extensively working on Java 8 and microservices architecture, converting client requirements to technical implementation and developing RESTful APIs.
             </p>
 
             <p>
               Shortly after graduating from{' '}
               <a href="https://www.akgec.ac.in/">AKGEC, Ghaziabad</a>, I joined the
-              engineering team at <a href="http://www.infoedge.in/">Info Edge India Ltd.</a> where I work in one of their products, <a href="https://www.naukri.com/">Naukri</a>.
+              engineering team at <a href="http://www.knoldus.com/">Knoldus Inc.</a> where I worked on a variety of
+              technologies before landing my current job with <a href="http://www.infoedge.in/">Info Edge India Ltd.</a>,
+              where I now work in one of their products, <a href="https://www.naukri.com/">Naukri.com</a> .
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>
