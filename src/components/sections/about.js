@@ -132,7 +132,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Microservices', 'Java 8', 'MongoDB', 'Spring Boot', 'Lagom', 'DGraph'];
+  const skills = ['Microservices', 'Java 8', 'MySQL', 'Apache Kafka', 'Spring Boot', 'MongoDB', 'Kotlin'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -144,15 +144,16 @@ const About = () => {
             <p>Hi! I'm Akshansh, a software engineer based in Noida, UP.</p>
 
             <p>
-              I possess 3+ years of experience, extensively working on Java 8 and microservices architecture, converting client requirements to technical implementation and developing RESTful APIs.
+              I possess almost 6 years of experience, extensively working on Java 8 and microservices architecture, converting client requirements to technical implementation and developing RESTful APIs.
             </p>
 
             <p>
               Shortly after graduating from{' '}
               <a href="https://www.akgec.ac.in/">AKGEC, Ghaziabad</a>, I joined the
               engineering team at <a href="http://www.knoldus.com/">Knoldus Inc.</a> where I worked on a variety of
-              technologies before landing my current job with <a href="http://www.infoedge.in/">Info Edge India Ltd.</a>,
-              where I now work in one of their products, <a href="https://www.naukri.com/">Naukri.com</a> .
+              technologies before landing a job with <a href="http://www.infoedge.in/">Info Edge India Ltd.</a>,
+              where I worked in one of their products, <a href="https://www.naukri.com/">Naukri.com</a> . 
+              After a stint of about 1.5 years, I moved on to my current job at Ixigo, where I am a part of the Payments team.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>
