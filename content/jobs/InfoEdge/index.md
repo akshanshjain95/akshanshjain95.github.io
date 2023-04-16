@@ -3,7 +3,7 @@ date: '2019-11-04'
 title: 'Senior Software Engineer'
 company: 'Info Edge India Ltd.'
 location: 'Noida, U.P.'
-range: 'November 2019 - Present'
+range: 'November 2019 - March 2021'
 url: 'http://www.infoedge.in/'
 ---
 
