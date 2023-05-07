@@ -1,7 +1,7 @@
 ---
 date: '3'
 title: 'Ixigo (Payments)'
-cover: './ixigo.jpg'
+cover: './ixigo.jpeg'
 external: 'https://www.ixigo.com'
 tech:
   - Spring Boot

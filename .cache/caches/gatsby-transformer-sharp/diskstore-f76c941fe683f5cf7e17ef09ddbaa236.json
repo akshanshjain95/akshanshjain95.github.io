@@ -1,11 +1,1 @@
-{
-  "expireTime": 9007200938226124000,
-  "key": "2fcfbe289d84d1e42c4937a304fdb9c3{\"background\":\"rgba(0,0,0,1)\",\"duotone\":false,\"grayscale\":false,\"rotate\":0,\"trim\":false,\"toFormat\":\"webp\",\"toFormatBase64\":\"\",\"cropFocus\":17,\"fit\":\"cover\",\"width\":20,\"height\":13}",
-  "val": {
-    "src": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAACwAwCdASoUAA0APtFUo0uoJKMhsAgBABoJZwAATvcId89uNbchgAD9U5d4SAUx/BR+maMmbpuVtxzyVZ8dVehbe1eFn4XCoNoS4cHbLZVRxYTQEaZQMAlfzt5IVtZBpG4aPnLDJWiHKhSXMSJlSwdMyo6lsC7g1+eL/C+d4cntPwl1kEHxKVtKaWFEkAAA",
-    "width": 20,
-    "height": 13,
-    "aspectRatio": 1.5384615384615385,
-    "originalName": "jobposting.jpg"
-  }
-}
+{"expireTime":9007200938227946000,"key":"2fcfbe289d84d1e42c4937a304fdb9c3{\"background\":\"rgba(0,0,0,1)\",\"duotone\":false,\"grayscale\":false,\"rotate\":0,\"trim\":false,\"toFormat\":\"webp\",\"toFormatBase64\":\"\",\"cropFocus\":17,\"fit\":\"cover\",\"width\":20,\"height\":13}","val":{"src":"data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAACwAwCdASoUAA0APtFUo0uoJKMhsAgBABoJZwAATvcId89uNbchgAD9U5d4SAUx/BR+maMmbpuVtxzyVZ8dVehbe1eFn4XCoNoS4cHbLZVRxYTQEaZQMAlfzt5IVtZBpG4aPnLDJWiHKhSXMSJlSwdMyo6lsC7g1+eL/C+d4cntPwl1kEHxKVtKaWFEkAAA","width":20,"height":13,"aspectRatio":1.5384615384615385,"originalName":"jobposting.jpg"}}
