@@ -153,7 +153,7 @@ const About = () => {
               engineering team at <a href="http://www.knoldus.com/">Knoldus Inc.</a> where I worked on a variety of
               technologies before landing a job with <a href="http://www.infoedge.in/">Info Edge India Ltd.</a>,
               where I worked in one of their products, <a href="https://www.naukri.com/">Naukri.com</a> . 
-              After a stint of about 1.5 years, I moved on to my current job at Ixigo, where I am a part of the Payments team.
+              After a stint of about 1.5 years, I moved on to my current job at <a href="https://www.ixigo.com/">Ixigo</a>, where I am a part of the Payments team.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>
