@@ -1,6 +1,6 @@
 ---
 date: '2021-03-25'
-title: 'Senior Software Engineer - II'
+title: 'Principal Engineer'
 company: 'Ixigo'
 location: 'Gurugram, U.P.'
 range: 'March 2021 - Present'
