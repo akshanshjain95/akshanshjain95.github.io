@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://akshanshjain95.github.io/sitemap.xml
+Sitemap: https://akshanshjain95.github.io/sitemap-index.xml
 Host: https://akshanshjain95.github.io
