@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '4'
 title: 'Ixigo (Payments)'
 cover: './ixigo.jpeg'
 external: 'https://www.ixigo.com'
