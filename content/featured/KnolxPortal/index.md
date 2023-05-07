@@ -12,7 +12,7 @@ tech:
   - jQuery
   - JavaScript
   - Bootstrap
-showInProjects: true
+showInProjects: false
 ---
 
 Knolx Portal facilitates automation of processes required to organize technical meetups. 
